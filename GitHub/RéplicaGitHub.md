@@ -13,10 +13,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 | _Jesús Armando López García_            | Instructor/Google DSC Lead /Data Intelligence Manager                |
 
 
-## Aliados
-
-![Aliados](img/britishcouncil.png)
-
 
 ## Asistentes y tres cosas que te gusten
 
