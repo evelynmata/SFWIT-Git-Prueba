@@ -3,3 +3,5 @@ Introducción a Git Hub
 Tres cosas que me gusten:
 
 * Me gusta escribir textos literarios
+* Me gusta ver el cielo
+* Me gusta ir al cine
