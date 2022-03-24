@@ -1,3 +1,0 @@
-Aquí dejo las instrucciones a seguir para el inicio del proyecto.
-1. Checar carpetas y documentos previos
-2. Hacer commit y push.
